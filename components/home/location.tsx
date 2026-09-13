@@ -1,5 +1,5 @@
 import { Icon } from "@/components/ui/icon";
-import { MAPS_EMBED_URL, MAPS_URL, WHATSAPP_URL } from "@/lib/constants";
+import { MAPS_DIRECTIONS_URL, MAPS_EMBED_URL, WHATSAPP_URL } from "@/lib/constants";
 
 type LocationProps = {
   showHeading?: boolean;
@@ -13,8 +13,9 @@ export function Location({ showHeading = true }: LocationProps) {
           <iframe
             src={MAPS_EMBED_URL}
             title="Lokasi Apotek Raihan Farma di Google Maps"
-            loading="lazy"
-            referrerPolicy="strict-origin-when-cross-origin"
+            width={600}
+            height={450}
+            referrerPolicy="no-referrer-when-downgrade"
             allowFullScreen
           />
         </div>
@@ -39,7 +40,12 @@ export function Location({ showHeading = true }: LocationProps) {
             Kabupaten Tabalong, Kalimantan Selatan 71571
           </p>
           <div className="location-actions">
-            <a className="button primary small" href={MAPS_URL} target="_blank" rel="noreferrer">
+            <a
+              className="button primary small"
+              href={MAPS_DIRECTIONS_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Petunjuk arah <Icon name="arrow" />
             </a>
             <a className="button secondary small" href={WHATSAPP_URL}>

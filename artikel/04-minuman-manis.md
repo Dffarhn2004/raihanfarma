@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/diabetes-tabalong-gejala-faktor-risiko", "/artikel/gula-garam-lemak-pola-makan-sehat-tabalong"]
 ---
 
-# Sering Minum Manis Setiap Hari? Ini Alasan Mengapa Kebiasaan Itu Perlu Dikurangi
-
 Teh manis, kopi susu, soda, minuman kemasan, hingga minuman kekinian mudah menjadi kebiasaan harian.
 
 WHO Indonesia pada Januari 2026 menyebut **hampir separuh penduduk usia di atas tiga tahun mengonsumsi lebih dari satu minuman berpemanis setiap hari**.

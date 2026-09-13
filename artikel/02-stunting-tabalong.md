@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Stunting di Tabalong: Mengapa 1.000 Hari Pertama Kehidupan Sangat Penting?
-
 **Stunting masih menjadi isu kesehatan penting di Kabupaten Tabalong.** Pemerintah Kabupaten Tabalong melaporkan berdasarkan SSGI 2024, prevalensi stunting di daerah ini mencapai **23,1 persen**, dibandingkan 18,1 persen pada tahun sebelumnya yang dikutip pemerintah daerah.
 
 Upaya pencegahan perlu dimulai jauh sebelum anak terlihat lebih pendek dibanding teman seusianya: sejak kehamilan hingga anak berusia dua tahun.

@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# 23 Ribu Lebih Warga Tabalong Ikut Cek Kesehatan Gratis: Mengapa Skrining Penting?
-
 Pemerintah Kabupaten Tabalong melaporkan bahwa hingga pertengahan Mei 2026, **23.524 warga Tabalong telah memanfaatkan Program Cek Kesehatan Gratis (CKG)** melalui puskesmas.
 
 Program nasional CKG dimulai pada Februari 2025 untuk mendorong deteksi dini berbagai masalah kesehatan. Hal terpenting dari skrining bukan hanya “sudah pernah cek”, tetapi apa yang dilakukan setelah hasil diketahui.

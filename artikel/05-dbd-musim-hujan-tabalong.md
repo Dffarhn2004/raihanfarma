@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Waspada DBD Saat Musim Hujan: Cara Melindungi Keluarga dari Demam Berdarah
-
 DBD tetap menjadi ancaman kesehatan di Indonesia. WHO melaporkan **hingga pertengahan 2024 kasus dengue di Indonesia mendekati 150.000 dengan 884 kematian**.
 
 Dengue dapat terjadi sepanjang tahun, tetapi genangan air akibat hujan dapat menambah tempat berkembang biak nyamuk Aedes.

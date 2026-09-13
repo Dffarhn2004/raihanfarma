@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Kasus Diabetes di Tabalong Meningkat: Kenali Gejala, Faktor Risiko, dan Kapan Perlu Periksa
-
 Diabetes melitus semakin penting diperhatikan oleh masyarakat **Tanjung dan Kabupaten Tabalong**. Data Dinas Kesehatan Kabupaten Tabalong yang dipublikasikan Pemerintah Kabupaten Tabalong menunjukkan kasus diabetes yang tercatat meningkat dari **2.646 kasus pada 2024 menjadi 2.938 kasus pada 2025**, atau naik sekitar 11 persen.
 
 Kenaikan itu tidak berarti semua warga memiliki risiko yang sama. Namun, diabetes tipe 2 dapat berkembang perlahan dan gejalanya kadang ringan sehingga tidak langsung disadari.

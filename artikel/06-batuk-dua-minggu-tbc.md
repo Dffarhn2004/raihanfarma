@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Batuk Lebih dari 2 Minggu Jangan Diabaikan: Kapan Perlu Curiga TBC?
-
 Batuk adalah keluhan yang umum, tetapi **batuk yang menetap selama dua minggu atau lebih perlu diperhatikan**. Salah satu penyebab yang perlu disingkirkan adalah tuberkulosis atau TBC.
 
 Kementerian Kesehatan pada 2025 menyebut Indonesia masih menghadapi **lebih dari satu juta kasus TBC dan sekitar 125.000 kematian setiap tahun**. TBC dapat dicegah dan disembuhkan, tetapi deteksi dini sangat penting.

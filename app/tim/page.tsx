@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   keywords: [
     "dokter umum Tanjung Tabalong",
     "psikolog Tabalong",
-    "Saudah S. Psi",
+    "Saudah S. Psi Psikolog",
     "dr H Syaifullah",
     "praktik psikologi Tanjung"
   ],

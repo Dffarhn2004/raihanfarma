@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/jadwal-dokter"]
 ---
 
-# Rokok dan Vape Bukan Pilihan Aman: Mengapa Berhenti Nikotin Menjadi Investasi Kesehatan
-
 Sebagian orang beralih dari rokok konvensional ke vape dengan anggapan vape aman.
 
 WHO pada 2026 menegaskan bahwa **semua bentuk penggunaan tembakau berbahaya** dan rokok elektronik juga tidak aman bagi kesehatan.

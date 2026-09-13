@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Hipertensi Sering Tanpa Gejala: Mengapa Warga Tanjung Tabalong Perlu Cek Tekanan Darah?
-
 Seseorang dapat merasa sehat walaupun tekanan darahnya tinggi. WHO memperkirakan sekitar **1,4 miliar orang dewasa usia 30–79 tahun hidup dengan hipertensi pada 2024**, dan sekitar 44 persen belum mengetahui kondisinya.
 
 Di Indonesia, hipertensi juga termasuk salah satu temuan paling sering pada Program Cek Kesehatan Gratis 2025.

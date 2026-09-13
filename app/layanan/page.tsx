@@ -8,7 +8,7 @@ import { SITE_URL, WHATSAPP_URL } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Layanan Apotek, Dokter Umum & Psikologi Tanjung",
   description:
-    "Layanan Raihan Farma di Hikun, Tanjung, Tabalong: praktik dokter umum, praktik psikologi bersama Saudah, S. Psi., serta pelayanan apotek dan resep.",
+    "Layanan Raihan Farma di Hikun, Tanjung, Tabalong: praktik dokter umum, praktik psikologi bersama Saudah, S. Psi Psikolog, serta pelayanan apotek dan resep.",
   keywords: [
     "layanan apotek Tanjung",
     "dokter umum Tabalong",

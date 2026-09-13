@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Gula, Garam, dan Lemak Berlebih: Kebiasaan Makan yang Perlu Mulai Diperhatikan
-
 Pada Januari 2026, WHO Indonesia menyoroti meningkatnya konsumsi makanan olahan tinggi **gula, garam, lemak jenuh, dan lemak trans**. WHO juga melaporkan angka obesitas dewasa di Indonesia meningkat dari **15,4 persen menjadi 23,4 persen dalam sekitar satu dekade**.
 
 Di Tabalong, kasus diabetes yang tercatat juga meningkat pada 2025. Ini membuat perbaikan pola makan semakin relevan.

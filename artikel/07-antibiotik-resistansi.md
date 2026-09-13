@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Antibiotik Bukan Obat untuk Semua Penyakit: Mengapa Penggunaannya Harus Bijak?
-
 Antibiotik sangat penting untuk mengobati infeksi bakteri tertentu. Namun penggunaan yang tidak tepat dapat mendorong **resistansi antimikroba (AMR)**.
 
 WHO menyebut penggunaan berlebihan dan tidak tepat pada manusia, hewan, dan tumbuhan sebagai pendorong utama terbentuknya mikroorganisme yang resistan. Indonesia juga termasuk negara yang menghadapi risiko tinggi dan diproyeksikan menjadi salah satu negara dengan peningkatan konsumsi antimikroba yang besar menuju 2030.

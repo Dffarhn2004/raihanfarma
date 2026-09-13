@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/aktivitas-fisik-150-menit-per-minggu", "/jadwal-dokter"]
 ---
 
-# Tidur 7–9 Jam: Mengapa Kualitas Tidur Sama Pentingnya dengan Pola Makan dan Olahraga?
-
 Pola hidup sehat sering hanya dikaitkan dengan makanan dan olahraga. Padahal, **tidur merupakan bagian penting dari kesehatan fisik dan mental**.
 
 Kementerian Kesehatan pada 2026 menjelaskan bahwa orang dewasa usia 18–64 tahun umumnya dianjurkan tidur sekitar **7–9 jam per malam**, sedangkan kebutuhan dapat berbeda sesuai usia dan kondisi masing-masing.

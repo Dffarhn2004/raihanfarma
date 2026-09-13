@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/aktivitas-fisik-150-menit-per-minggu"]
 ---
 
-# Terlalu Lama Duduk Juga Perlu Diperhatikan: Cara Lebih Aktif Saat Kerja dan di Rumah
-
 Bekerja di depan laptop, menyetir, menonton televisi, dan scrolling berjam-jam memiliki satu kesamaan: tubuh berada dalam kondisi sangat sedikit bergerak.
 
 WHO menyebut perilaku sedentari sebagai aktivitas saat terjaga dengan pengeluaran energi rendah dalam posisi duduk, bersandar, atau berbaring.

@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/tidur-7-9-jam-kualitas-tidur", "/artikel/aktivitas-fisik-150-menit-per-minggu"]
 ---
 
-# Stres Tidak Selalu Buruk, tetapi Perlu Dikelola: 7 Kebiasaan yang Bisa Dicoba
-
 Stres merupakan respons alami manusia terhadap tekanan dan perubahan. Kementerian Kesehatan menjelaskan bahwa tidak semua stres bersifat negatif. Dalam kadar tertentu, stres dapat membantu seseorang fokus dan menyelesaikan tantangan.
 
 Masalah muncul ketika stres terasa terus-menerus, sulit dikendalikan, dan mulai mengganggu tidur, pekerjaan, hubungan, atau kesehatan.

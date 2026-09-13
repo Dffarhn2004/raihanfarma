@@ -21,7 +21,7 @@ export function PharmacyJsonLd() {
         alternateName: "Raihan Farma",
         url: SITE_URL,
         description:
-          "Apotek Raihan Farma di Hikun, Tanjung, Tabalong melayani kebutuhan obat, praktik dokter umum, dan praktik psikologi bersama Saudah, S. Psi.",
+          "Apotek Raihan Farma di Hikun, Tanjung, Tabalong melayani kebutuhan obat, praktik dokter umum, dan praktik psikologi bersama Saudah, S. Psi Psikolog.",
         logo: `${SITE_URL}${LOGO_PATH}`,
         image: `${SITE_URL}${LOGO_PATH}`,
         telephone: "+6285247092025",
@@ -61,7 +61,7 @@ export function PharmacyJsonLd() {
             "@type": "Service",
             name: "Praktik psikologi",
             description:
-              "Konsultasi psikologi bersama Saudah, S. Psi. untuk individu dan keluarga.",
+              "Konsultasi psikologi bersama Saudah, S. Psi Psikolog untuk individu dan keluarga.",
             provider: { "@id": `${SITE_URL}/#psikolog` }
           },
           {

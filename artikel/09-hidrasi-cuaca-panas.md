@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/jadwal-dokter"]
 ---
 
-# Tetap Terhidrasi Saat Cuaca Panas: Cara Mengenali Tubuh Kekurangan Cairan
-
 Saat cuaca panas atau aktivitas meningkat, tubuh kehilangan lebih banyak cairan melalui keringat.
 
 WHO menekankan pentingnya menjaga tubuh tetap sejuk dan terhidrasi ketika menghadapi suhu tinggi.

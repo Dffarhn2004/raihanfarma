@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/hipertensi-tanjung-tabalong-cek-tekanan-darah", "/artikel/diabetes-tabalong-gejala-faktor-risiko", "/jadwal-dokter"]
 ---
 
-# 150 Menit Aktivitas Fisik per Minggu: Target Sederhana untuk Mulai Hidup Lebih Sehat
-
 Banyak orang merasa harus berolahraga berat agar tubuh mendapatkan manfaat. Padahal, aktivitas fisik yang dilakukan secara konsisten jauh lebih penting daripada memulai terlalu berat lalu berhenti setelah beberapa hari.
 
 WHO merekomendasikan orang dewasa melakukan **150–300 menit aktivitas aerobik intensitas sedang per minggu**, atau sekitar 75–150 menit aktivitas intensitas tinggi. Aktivitas penguatan otot juga dianjurkan sedikitnya dua hari per minggu.

@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     "praktik psikologi Tabalong",
     "konsultasi psikologi Tanjung",
     "konsultasi psikologi Tabalong",
-    "Saudah S. Psi",
+    "Saudah S. Psi Psikolog",
     "apotek Hikun",
     "praktik dokter umum Tanjung",
     "kesehatan mental Tabalong"
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Raihan Farma — Apotek, Dokter Umum & Psikologi",
     description:
-      "Apotek, praktik dokter umum, dan praktik psikologi bersama Saudah, S. Psi. di Tanjung, Tabalong.",
+      "Apotek, praktik dokter umum, dan praktik psikologi bersama Saudah, S. Psi Psikolog di Tanjung, Tabalong.",
     url: SITE_URL,
     siteName: "Raihan Farma",
     locale: "id_ID",

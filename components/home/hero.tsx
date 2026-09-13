@@ -16,11 +16,14 @@ export function Hero() {
           <p className="eyebrow">
             <span className="eyebrow-dot" /> APOTEK · DOKTER UMUM · PSIKOLOGI
           </p>
-          <h1>
+          <h1 className="hero-seo-title">
+            Apotek, Dokter Umum &amp; Psikologi di Tanjung, Tabalong
+          </h1>
+          <p className="hero-tagline">
             Kesehatan Anda,
             <br />
             <em>lebih dekat.</em>
-          </h1>
+          </p>
           <p className="hero-lead">
             Konsultasi dokter umum, praktik psikologi, dan kebutuhan obat di
             Raihan Farma — satu tempat yang mudah dijangkau.

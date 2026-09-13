@@ -40,11 +40,6 @@ export function Footer({ homeHref = "/" }: FooterProps) {
           <a href={MAPS_URL}>
             <Icon name="pin" /> Lihat lokasi
           </a>
-          <p className="unverified">
-            Nomor dan informasi operasional
-            <br />
-            perlu dikonfirmasi sebelum publikasi.
-          </p>
         </div>
       </div>
       <div className="container footer-bottom">

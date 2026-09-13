@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/hipertensi-tanjung-tabalong-cek-tekanan-darah", "/artikel/gula-garam-lemak-pola-makan-sehat-tabalong"]
 ---
 
-# Garam Kurang dari 5 Gram Sehari: Mengapa Natrium Perlu Diperhatikan?
-
 Garam dibutuhkan dalam jumlah kecil, tetapi konsumsi berlebihan dapat meningkatkan tekanan darah pada banyak orang.
 
 WHO merekomendasikan orang dewasa membatasi konsumsi menjadi **kurang dari 2 gram natrium per hari**, setara dengan sekitar **5 gram garam per hari**.

@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Swamedikasi yang Aman: Kapan Boleh Mengobati Keluhan Ringan Sendiri?
-
 Ketika mengalami sakit kepala ringan, pilek, atau gangguan pencernaan sederhana, banyak orang memilih membeli obat sendiri. Praktik ini dikenal sebagai **swamedikasi**.
 
 Kementerian Kesehatan menjelaskan swamedikasi sebagai upaya mengobati diri sendiri menggunakan obat yang disetujui dan tersedia tanpa resep untuk keluhan yang sesuai, dengan penggunaan yang aman.

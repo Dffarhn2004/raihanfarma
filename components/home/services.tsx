@@ -56,7 +56,7 @@ export function Services({ showHeading = true }: ServicesProps) {
               Psikologi
             </h3>
             <p>
-              Praktik psikologi bersama Saudah, S. Psi. untuk dukungan kesehatan
+              Praktik psikologi bersama Saudah, S. Psi Psikolog untuk dukungan kesehatan
               mental yang lebih dekat.
             </p>
             <a href="/tim" className="text-link">

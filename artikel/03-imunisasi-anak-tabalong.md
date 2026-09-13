@@ -10,8 +10,6 @@ updated_at: "2026-09-13"
 author: "Tim Edukasi Raihan Farma"
 ---
 
-# Imunisasi Anak di Tabalong: Manfaat, KIPI, dan Hal yang Perlu Dipahami Orang Tua
-
 Pemerintah Kabupaten Tabalong melaporkan **cakupan Imunisasi Dasar Lengkap pada 2025 mencapai sekitar 88 persen**. Dinas Kesehatan menargetkan cakupan lebih tinggi pada 2026 dan terus melakukan edukasi karena sebagian keluarga masih khawatir terhadap efek setelah imunisasi.
 
 ## Mengapa Imunisasi Penting?

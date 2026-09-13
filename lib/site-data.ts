@@ -23,7 +23,7 @@ export const FAQS = [
   ],
   [
     "Apakah ada praktik psikologi di Raihan Farma?",
-    "Ya. Raihan Farma juga membuka praktik psikologi bersama Saudah, S. Psi. Jadwal konsultasi dapat dikonfirmasi melalui WhatsApp."
+    "Ya. Raihan Farma juga membuka praktik psikologi bersama Saudah, S. Psi Psikolog. Jadwal konsultasi dapat dikonfirmasi melalui WhatsApp."
   ],
   [
     "Apakah Raihan Farma menyediakan rawat inap?",
@@ -45,7 +45,7 @@ export const FAQS = [
 
 export const BENEFITS = [
   ["doctor", "Dokter umum", "Konsultasi langsung bersama dokter umum."],
-  ["heart", "Praktik psikologi", "Konsultasi psikologi bersama Saudah, S. Psi."],
+  ["heart", "Praktik psikologi", "Konsultasi psikologi bersama Saudah, S. Psi Psikolog."],
   ["pill", "Apotek dalam satu lokasi", "Penuhi kebutuhan obat tanpa berpindah tempat."],
   ["pin", "Lokasi mudah dijangkau", "Berada di Hikun, Tanjung, Kabupaten Tabalong."]
 ] as const;
@@ -60,7 +60,7 @@ export const DOCTOR = {
 } as const;
 
 export const PSYCHOLOGIST = {
-  name: "Saudah, S. Psi.",
+  name: "Saudah, S. Psi Psikolog",
   role: "Psikolog",
   hoursNote: "Dengan janji",
   blurb: "Konsultasi psikologi untuk individu dan keluarga di Raihan Farma."

@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/gula-garam-lemak-pola-makan-sehat-tabalong", "/artikel/diabetes-tabalong-gejala-faktor-risiko"]
 ---
 
-# Isi Piringku: Cara Sederhana Menyusun Makan Seimbang Setiap Hari
-
 Makan sehat tidak harus berarti membeli makanan mahal atau mengikuti diet yang rumit.
 
 Kementerian Kesehatan menggunakan konsep **Isi Piringku** untuk membantu masyarakat memahami gizi seimbang dalam sekali makan.

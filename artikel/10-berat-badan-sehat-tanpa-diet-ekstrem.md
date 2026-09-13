@@ -12,8 +12,6 @@ reviewer_required: true
 internal_links: ["/artikel/aktivitas-fisik-150-menit-per-minggu", "/artikel/isi-piringku-gizi-seimbang", "/artikel/tidur-7-9-jam-kualitas-tidur"]
 ---
 
-# Menjaga Berat Badan Sehat Tanpa Diet Ekstrem: Fokus pada Kebiasaan yang Bisa Dipertahankan
-
 Menurunkan berat badan sering dipasarkan sebagai sesuatu yang sederhana: makan sesedikit mungkin atau mengikuti diet tertentu.
 
 Padahal WHO menegaskan bahwa obesitas merupakan **kondisi kronis dan kompleks** yang dipengaruhi interaksi antara faktor genetik, biologis, perilaku makan, aktivitas fisik, lingkungan, obat, kondisi medis, dan faktor psikososial.
