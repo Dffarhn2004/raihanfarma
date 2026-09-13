@@ -7,7 +7,7 @@ import { SITE_URL, WHATSAPP_URL } from "@/lib/constants";
 import { DOCTOR, PSYCHOLOGIST } from "@/lib/site-data";
 
 export const metadata: Metadata = {
-  title: "Tim Dokter Umum & Psikolog Tanjung Tabalong | Raihan Farma",
+  title: "Tim Dokter Umum & Psikolog Tanjung Tabalong",
   description: `Kenali tim Raihan Farma: ${DOCTOR.name} (${DOCTOR.role}) dan ${PSYCHOLOGIST.name} (${PSYCHOLOGIST.role}) di Hikun, Tanjung, Kabupaten Tabalong.`,
   keywords: [
     "dokter umum Tanjung Tabalong",

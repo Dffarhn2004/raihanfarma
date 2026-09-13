@@ -6,6 +6,15 @@ export function PharmacyJsonLd() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebSite",
+        "@id": `${SITE_URL}/#website`,
+        name: "Raihan Farma",
+        alternateName: ["Apotek Raihan Farma", "Raihan Farma Tanjung Tabalong"],
+        url: SITE_URL,
+        inLanguage: "id-ID",
+        publisher: { "@id": `${SITE_URL}/#business` }
+      },
+      {
         "@type": ["Pharmacy", "MedicalBusiness", "LocalBusiness"],
         "@id": `${SITE_URL}/#business`,
         name: "Apotek Raihan Farma",

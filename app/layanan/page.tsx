@@ -6,7 +6,7 @@ import { SiteShell } from "@/components/layout/site-shell";
 import { SITE_URL, WHATSAPP_URL } from "@/lib/constants";
 
 export const metadata: Metadata = {
-  title: "Layanan Apotek, Dokter Umum & Psikologi Tanjung | Raihan Farma",
+  title: "Layanan Apotek, Dokter Umum & Psikologi Tanjung",
   description:
     "Layanan Raihan Farma di Hikun, Tanjung, Tabalong: praktik dokter umum, praktik psikologi bersama Saudah, S. Psi., serta pelayanan apotek dan resep.",
   keywords: [

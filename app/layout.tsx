@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
-import { LOGO_ALT, LOGO_MARK_PATH, LOGO_PATH, SITE_URL } from "@/lib/constants";
+import { LOGO_ALT, LOGO_PATH, SITE_URL } from "@/lib/constants";
 import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "Apotek, Dokter Umum & Psikologi Tanjung Tabalong | Raihan Farma",
+  applicationName: "Raihan Farma",
+  title: {
+    default: "Raihan Farma: Apotek, Dokter Umum & Psikologi Tanjung Tabalong",
+    template: "%s | Raihan Farma"
+  },
   description:
     "Raihan Farma melayani apotek, konsultasi dokter umum, dan praktik psikologi bersama Saudah, S. Psi. di Hikun, Tanjung, Tabalong. Lihat jadwal, lokasi, dan hubungi WhatsApp.",
   keywords: [
@@ -22,9 +26,14 @@ export const metadata: Metadata = {
     "kesehatan mental Tabalong"
   ],
   icons: {
-    icon: [{ url: LOGO_MARK_PATH, type: "image/png" }],
-    apple: [{ url: LOGO_MARK_PATH, type: "image/png" }],
-    shortcut: LOGO_MARK_PATH
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icons/icon-48.png", sizes: "48x48", type: "image/png" },
+      { url: "/icons/icon-96.png", sizes: "96x96", type: "image/png" },
+      { url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" }
+    ],
+    apple: [{ url: "/icons/icon-192.png", sizes: "192x192", type: "image/png" }],
+    shortcut: "/favicon.ico"
   },
   openGraph: {
     title: "Raihan Farma — Apotek, Dokter Umum & Psikologi",
@@ -50,7 +59,8 @@ export const metadata: Metadata = {
       "Apotek, dokter umum, dan praktik psikologi di Tanjung, Tabalong.",
     images: [LOGO_PATH]
   },
-  alternates: { canonical: "/" }
+  alternates: { canonical: "/" },
+  manifest: "/manifest.webmanifest"
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

@@ -6,7 +6,7 @@ import { getAllArticles } from "@/lib/articles";
 import { SITE_URL, WHATSAPP_URL } from "@/lib/constants";
 
 export const metadata: Metadata = {
-  title: "Artikel Kesehatan Tabalong | Raihan Farma",
+  title: "Artikel Kesehatan Tabalong",
   description:
     "Kumpulan edukasi kesehatan untuk masyarakat Tanjung dan Kabupaten Tabalong: diabetes, hipertensi, stunting, imunisasi, dan tips obat aman.",
   alternates: { canonical: "/artikel" },
